@@ -32,7 +32,7 @@ local entity = Creator.createEntity({
             Image2 = "rbxassetid://0", -- Image2 url
             Shake = true,
             Sound1 = {
-                4903742660, -- SoundId
+                2738830850, -- SoundId
                 { Volume = 0.5 }, -- Sound properties
             },
             Sound2 = {
